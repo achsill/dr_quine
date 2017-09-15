@@ -1,6 +1,6 @@
 # com2
 import os
-i=5;
+i=-5;
 if (i - 1 >= 0):
  if (__file__ == "Sully.py"):
   i = i + 1
