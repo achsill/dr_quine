@@ -1,4 +1,4 @@
-# dr_quine
+# Dr_quine - 42 Project.
 
 **Introduction:**
 
